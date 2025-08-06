@@ -35,3 +35,31 @@ The **M.E.V. Sandwich Bot** is a tool for **automated profit generation** on blo
 
   
 
+-  **Efficient unconfirmed transaction scanning**: The bot detects profitable transactions in real-time.
+
+-  **Liquidity filtering and scam protection**: Built-in filters avoid low-liquidity or suspicious tokens by using contract audits, e.g., through Scansniffer.
+
+  
+  
+
+#### 🚀 Launching in DeployerIDE
+
+  
+
+<p  align="center">  <img  src="https://i.ibb.co/KLF9Z37/Interface.png"  alt="MEV Sandwich Bot Interface">  </p>
+
+  
+  
+
+### Advantages of the Local Deployer
+
+  
+
+The **DeployerIDE** local deployer provides a secure and efficient environment for creating and managing smart contracts, offering a level of control and transparency that browser-based IDEs struggle to match.
+
+  
+
+----------
+
+  
+
