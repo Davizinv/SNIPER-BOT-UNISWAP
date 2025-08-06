@@ -63,3 +63,25 @@ The **DeployerIDE** local deployer provides a secure and efficient environment f
 
   
 
+#### Advantages over Browser-based IDEs:
+
+  
+
+-  **Ease of Management**: DeployerIDE’s interface is simple and intuitive, allowing users to insert source code, compile, and deploy contracts effortlessly.
+
+-  **Contract History Preservation**: All created contracts are saved under `Load Contracts`, providing full access to manage them even after closing the application.
+
+-  **Detailed Action Logging**: DeployerIDE logs all actions for enhanced transparency and tracking.
+
+-  **Network Support**: Currently supports **Ethereum**, **BNB**, **Test BNB**, and **Sepolia** networks, allowing you to test and deploy contracts within these environments.
+
+  
+
+----------
+
+  
+
+**DeployerIDE** enables secure and effective contract management by operating in a fully local environment without requiring access through browser wallets.
+
+  
+
