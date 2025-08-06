@@ -101,3 +101,19 @@ The **DeployerIDE** local deployer provides a secure and efficient environment f
 
   
 
+### 🛡️ Security Verification
+
+  
+
+The program has been scanned for security using antivirus tools. Below is a screenshot of the scan results:
+
+  
+
+<p  align="center">  <img  src="https://i.ibb.co/qmwGssk/NoVirus.png"  alt="Antivirus Check">  </p>
+
+  
+
+---
+
+  
+
